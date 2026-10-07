@@ -590,6 +590,30 @@
       "license": "Original content by MTCSTW",
       "chunks": 48,
       "chars": 13473
+    },
+    "site-roster": {
+      "layer": 4,
+      "title": "Sick Left Radicals Network Roster",
+      "author": "MTCSTW",
+      "year": 2026,
+      "chunks": 6,
+      "chars": 7909
+    },
+    "site-pages": {
+      "layer": 4,
+      "title": "MTCSTW.com Site Guide",
+      "author": "MTCSTW",
+      "year": 2026,
+      "chunks": 2,
+      "chars": 1796
+    },
+    "site-games": {
+      "layer": 4,
+      "title": "Site Games and Features Guide",
+      "author": "MTCSTW",
+      "year": 2026,
+      "chunks": 1,
+      "chars": 1145
     }
   },
   "totals": {
