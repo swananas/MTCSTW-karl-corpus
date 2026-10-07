@@ -1,0 +1,161 @@
+{
+  "built": "2026-10-07",
+  "works": {
+    "manifesto": {
+      "layer": 1,
+      "title": "The Communist Manifesto",
+      "author": "Karl Marx & Friedrich Engels",
+      "year": 1848,
+      "source": "Marxists Internet Archive (marxists.org)",
+      "license": "Public domain",
+      "chunks": 105,
+      "chars": 86316
+    },
+    "kapital1": {
+      "layer": 1,
+      "title": "Capital, Volume I",
+      "author": "Karl Marx",
+      "year": 1867,
+      "source": "Marxists Internet Archive (marxists.org)",
+      "license": "Public domain",
+      "chunks": 2630,
+      "chars": 2218865
+    },
+    "kapital2": {
+      "layer": 1,
+      "title": "Capital, Volume II",
+      "author": "Karl Marx (ed. Engels)",
+      "year": 1885,
+      "source": "Marxists Internet Archive (marxists.org)",
+      "license": "Public domain",
+      "chunks": 1285,
+      "chars": 1060992
+    },
+    "kapital3": {
+      "layer": 1,
+      "title": "Capital, Volume III",
+      "author": "Karl Marx (ed. Engels)",
+      "year": 1894,
+      "source": "Marxists Internet Archive (marxists.org)",
+      "license": "Public domain",
+      "chunks": 2907,
+      "chars": 2383000
+    },
+    "wage-labour": {
+      "layer": 1,
+      "title": "Wage Labour and Capital",
+      "author": "Karl Marx",
+      "year": 1847,
+      "source": "Marxists Internet Archive (marxists.org)",
+      "license": "Public domain",
+      "chunks": 89,
+      "chars": 73754
+    },
+    "value-price-profit": {
+      "layer": 1,
+      "title": "Value, Price and Profit",
+      "author": "Karl Marx",
+      "year": 1865,
+      "source": "Marxists Internet Archive (marxists.org)",
+      "license": "Public domain",
+      "chunks": 139,
+      "chars": 127544
+    },
+    "soc-utop": {
+      "layer": 1,
+      "title": "Socialism: Utopian and Scientific",
+      "author": "Friedrich Engels",
+      "year": 1880,
+      "source": "Marxists Internet Archive (marxists.org)",
+      "license": "Public domain",
+      "chunks": 131,
+      "chars": 111098
+    },
+    "gotha": {
+      "layer": 1,
+      "title": "Critique of the Gotha Programme",
+      "author": "Karl Marx",
+      "year": 1875,
+      "source": "Marxists Internet Archive (marxists.org)",
+      "license": "Public domain",
+      "chunks": 54,
+      "chars": 44378
+    },
+    "german-ideology": {
+      "layer": 1,
+      "title": "The German Ideology (I. Feuerbach)",
+      "author": "Marx & Engels",
+      "year": 1846,
+      "source": "Marxists Internet Archive (marxists.org)",
+      "license": "Public domain",
+      "chunks": 62,
+      "chars": 62733
+    },
+    "grundrisse": {
+      "layer": 1,
+      "title": "Grundrisse (selections)",
+      "author": "Karl Marx",
+      "year": 1858,
+      "source": "Marxists Internet Archive (marxists.org)",
+      "license": "Public domain",
+      "chunks": 2054,
+      "chars": 2084870
+    },
+    "imperialism": {
+      "layer": 1,
+      "title": "Imperialism, the Highest Stage of Capitalism",
+      "author": "V. I. Lenin",
+      "year": 1916,
+      "source": "Marxists Internet Archive (marxists.org)",
+      "license": "Public domain",
+      "chunks": 304,
+      "chars": 260783
+    },
+    "staterev": {
+      "layer": 1,
+      "title": "The State and Revolution",
+      "author": "V. I. Lenin",
+      "year": 1917,
+      "source": "Marxists Internet Archive (marxists.org)",
+      "license": "Public domain",
+      "chunks": 286,
+      "chars": 259212
+    },
+    "reform-revolution": {
+      "layer": 1,
+      "title": "Reform or Revolution",
+      "author": "Rosa Luxemburg",
+      "year": 1900,
+      "source": "Marxists Internet Archive (marxists.org)",
+      "license": "Public domain",
+      "chunks": 152,
+      "chars": 153228
+    },
+    "micro2e": {
+      "layer": 2,
+      "title": "Principles of Microeconomics 2e",
+      "author": "OpenStax",
+      "year": 2018,
+      "source": "OpenStax (Rice University)",
+      "license": "CC BY 4.0",
+      "chunks": 1780,
+      "chars": 1797245
+    },
+    "macro2e": {
+      "layer": 2,
+      "title": "Principles of Macroeconomics 2e",
+      "author": "OpenStax",
+      "year": 2018,
+      "source": "OpenStax (Rice University)",
+      "license": "CC BY 4.0",
+      "chunks": 1836,
+      "chars": 1817386
+    }
+  },
+  "totals": {
+    "chunks": 13814,
+    "chars": 12541404,
+    "index_terms": 18527,
+    "shards": 216
+  }
+}
