@@ -550,12 +550,52 @@
       "license": "Public domain / freely available",
       "chunks": 8,
       "chars": 7405
+    },
+    "mtcstw-substack": {
+      "layer": 3,
+      "title": "MTCSTW Substack Articles",
+      "author": "MTCSTW",
+      "year": 2026,
+      "source": "MTCSTW public revolutionary voice corpus",
+      "license": "Original content by MTCSTW",
+      "chunks": 229,
+      "chars": 280466
+    },
+    "mtcstw-facebook": {
+      "layer": 3,
+      "title": "MTCSTW Facebook Voice Posts",
+      "author": "MTCSTW",
+      "year": 2026,
+      "source": "MTCSTW public revolutionary voice corpus",
+      "license": "Original content by MTCSTW",
+      "chunks": 128,
+      "chars": 38327
+    },
+    "mtcstw-shared": {
+      "layer": 3,
+      "title": "MTCSTW Amplified Positions",
+      "author": "MTCSTW",
+      "year": 2026,
+      "source": "MTCSTW public revolutionary voice corpus",
+      "license": "Original content by MTCSTW",
+      "chunks": 49,
+      "chars": 11101
+    },
+    "mtcstw-podcast": {
+      "layer": 3,
+      "title": "MTCSTW Podcast Episodes",
+      "author": "MTCSTW",
+      "year": 2025,
+      "source": "MTCSTW public revolutionary voice corpus",
+      "license": "Original content by MTCSTW",
+      "chunks": 48,
+      "chars": 13473
     }
   },
   "totals": {
-    "chunks": 21343,
-    "chars": 19221902,
-    "index_terms": 25619,
-    "shards": 335
+    "chunks": 21797,
+    "chars": 19565269,
+    "index_terms": 26592,
+    "shards": 343
   }
 }
