@@ -555,7 +555,7 @@
   "totals": {
     "chunks": 21343,
     "chars": 19221902,
-    "index_terms": 25717,
+    "index_terms": 25619,
     "shards": 335
   }
 }
