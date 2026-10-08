@@ -663,6 +663,36 @@
       "license": "MTCSTW proprietary",
       "chunks": 1700,
       "chars": 462904
+    },
+    "karl-propaganda-pack2": {
+      "layer": 6,
+      "title": "Karl Propaganda Training Pack 2",
+      "author": "MTCSTW Training Pack",
+      "year": 2026,
+      "source": "MTCSTW training-packs/pack2_propaganda.jsonl",
+      "license": "MTCSTW proprietary",
+      "chunks": 2338,
+      "chars": 420801
+    },
+    "karl-narrative-pack3": {
+      "layer": 6,
+      "title": "Karl Data Narrative Training Pack 3",
+      "author": "MTCSTW Training Pack",
+      "year": 2026,
+      "source": "MTCSTW training-packs/pack3_data_narrative.jsonl",
+      "license": "MTCSTW proprietary",
+      "chunks": 1750,
+      "chars": 525171
+    },
+    "karl-counter-pack4": {
+      "layer": 6,
+      "title": "Karl Counter-Argument Training Pack 4",
+      "author": "MTCSTW Training Pack",
+      "year": 2026,
+      "source": "MTCSTW training-packs/pack4_counterarguments.jsonl",
+      "license": "MTCSTW proprietary",
+      "chunks": 1300,
+      "chars": 442662
     }
   },
   "totals": {
