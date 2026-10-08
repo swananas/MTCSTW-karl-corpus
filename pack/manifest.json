@@ -1,5 +1,5 @@
 {
-  "built": "2026-10-07",
+  "built": "2026-10-08",
   "works": {
     "manifesto": {
       "layer": 1,
@@ -633,12 +633,22 @@
       "chunks": 7,
       "chars": 9316,
       "last_release": "2026-10-07"
+    },
+    "karl-voice-pack1": {
+      "layer": 6,
+      "title": "Karl Voice Training Pack 1",
+      "author": "MTCSTW Training Pack",
+      "year": 2026,
+      "source": "MTCSTW training-packs/pack1_karl_voice.jsonl",
+      "license": "MTCSTW proprietary",
+      "chunks": 1300,
+      "chars": 374817
     }
   },
   "totals": {
-    "chunks": 21797,
-    "chars": 19565269,
-    "index_terms": 26592,
-    "shards": 343
+    "chunks": 23224,
+    "chars": 20094107,
+    "index_terms": 27180,
+    "shards": 368
   }
 }
