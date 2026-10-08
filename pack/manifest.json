@@ -614,6 +614,15 @@
       "year": 2026,
       "chunks": 1,
       "chars": 1145
+    },
+    "creator-knowledge": {
+      "layer": 5,
+      "title": "Sick Left Radicals Creator Knowledge",
+      "author": "MTCSTW / The Propaganda Factory",
+      "year": 2026,
+      "source": "CREATOR_PROFILES.md (public research, 2026-10-02)",
+      "chunks": 111,
+      "chars": 113770
     }
   },
   "totals": {
