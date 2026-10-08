@@ -151,6 +151,479 @@
       "chunks": 1836,
       "chars": 1817386
     },
+    "fanon-overview": {
+      "layer": 1,
+      "title": "Frantz Fanon \u2014 Overview",
+      "author": "Frantz Fanon (thematic summary)",
+      "year": 2026,
+      "source": "karl-training/theory/fanon (original summaries)",
+      "license": "Original summary",
+      "chunks": 3,
+      "chars": 3224
+    },
+    "fanon-wretched": {
+      "layer": 1,
+      "title": "The Wretched of the Earth \u2014 Key Concepts",
+      "author": "Frantz Fanon (thematic summary)",
+      "year": 1961,
+      "source": "karl-training/theory/fanon (original summaries)",
+      "license": "Original summary; brief quotations fair use",
+      "chunks": 9,
+      "chars": 7037
+    },
+    "fanon-blackskin": {
+      "layer": 1,
+      "title": "Black Skin, White Masks \u2014 Key Concepts",
+      "author": "Frantz Fanon (thematic summary)",
+      "year": 1952,
+      "source": "karl-training/theory/fanon (original summaries)",
+      "license": "Original summary; brief quotations fair use",
+      "chunks": 4,
+      "chars": 4078
+    },
+    "fanon-dying": {
+      "layer": 1,
+      "title": "A Dying Colonialism \u2014 Key Concepts",
+      "author": "Frantz Fanon (thematic summary)",
+      "year": 1959,
+      "source": "karl-training/theory/fanon (original summaries)",
+      "license": "Original summary",
+      "chunks": 4,
+      "chars": 3145
+    },
+    "fanon-concepts": {
+      "layer": 1,
+      "title": "Fanonian Concepts \u2014 Glossary",
+      "author": "Frantz Fanon (thematic summary)",
+      "year": 2026,
+      "source": "karl-training/theory/fanon (original summaries)",
+      "license": "Original glossary",
+      "chunks": 3,
+      "chars": 3536
+    },
+    "fanon-quotes": {
+      "layer": 1,
+      "title": "Fanon \u2014 Brief Quotations",
+      "author": "Frantz Fanon",
+      "year": 1961,
+      "source": "karl-training/theory/fanon (original summaries)",
+      "license": "Brief quotations, fair use, cited",
+      "chunks": 2,
+      "chars": 1513
+    },
+    "mia-capital-vol-1": {
+      "layer": 1,
+      "title": "Capital, Volume I: A Critique of Political Economy",
+      "author": "Karl Marx",
+      "year": 1867,
+      "source": "https://www.marxists.org/archive/marx/works/1867-c1/",
+      "license": "Public domain / freely available",
+      "chunks": 2108,
+      "chars": 1762414
+    },
+    "mia-communist-manifesto": {
+      "layer": 1,
+      "title": "Manifesto of the Communist Party",
+      "author": "Karl Marx and Friedrich Engels",
+      "year": 1848,
+      "source": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/",
+      "license": "Public domain / freely available",
+      "chunks": 142,
+      "chars": 117626
+    },
+    "mia-condition-of-the-working-class": {
+      "layer": 1,
+      "title": "The Condition of the Working Class in England",
+      "author": "Friedrich Engels",
+      "year": 1845,
+      "source": "https://www.marxists.org/archive/marx/works/1845/condition-working-class/",
+      "license": "Public domain / freely available",
+      "chunks": 969,
+      "chars": 785184
+    },
+    "mia-critique-of-the-gotha-programme": {
+      "layer": 1,
+      "title": "Critique of the Gotha Programme",
+      "author": "Karl Marx",
+      "year": 1875,
+      "source": "https://www.marxists.org/archive/marx/works/1875/gotha/",
+      "license": "Public domain / freely available",
+      "chunks": 61,
+      "chars": 50147
+    },
+    "mia-eighteenth-brumaire": {
+      "layer": 1,
+      "title": "The Eighteenth Brumaire of Louis Bonaparte",
+      "author": "Karl Marx",
+      "year": 1852,
+      "source": "https://www.marxists.org/archive/marx/works/1852/18th-brumaire/",
+      "license": "Public domain / freely available",
+      "chunks": 331,
+      "chars": 268508
+    },
+    "mia-german-ideology-feuerbach": {
+      "layer": 1,
+      "title": "The German Ideology, Part I: Feuerbach. Opposition of the Materialist and Idealist Outlook",
+      "author": "Karl Marx and Friedrich Engels",
+      "year": 0,
+      "source": "https://www.marxists.org/archive/marx/works/1845/german-ideology/",
+      "license": "Public domain / freely available",
+      "chunks": 214,
+      "chars": 179064
+    },
+    "mia-origin-of-the-family": {
+      "layer": 1,
+      "title": "The Origin of the Family, Private Property and the State",
+      "author": "Friedrich Engels",
+      "year": 1884,
+      "source": "https://www.marxists.org/archive/marx/works/1884/origin-family/",
+      "license": "Public domain / freely available",
+      "chunks": 543,
+      "chars": 442125
+    },
+    "mia-socialism-utopian-and-scientific": {
+      "layer": 1,
+      "title": "Socialism: Utopian and Scientific",
+      "author": "Friedrich Engels",
+      "year": 1880,
+      "source": "https://www.marxists.org/archive/marx/works/1880/soc-utop/",
+      "license": "Public domain / freely available",
+      "chunks": 197,
+      "chars": 164798
+    },
+    "mia-theses-on-feuerbach": {
+      "layer": 1,
+      "title": "Theses on Feuerbach",
+      "author": "Karl Marx",
+      "year": 1845,
+      "source": "https://www.marxists.org/archive/marx/works/1845/theses/",
+      "license": "Public domain / freely available",
+      "chunks": 5,
+      "chars": 4392
+    },
+    "mia-value-price-and-profit": {
+      "layer": 1,
+      "title": "Value, Price and Profit",
+      "author": "Karl Marx",
+      "year": 1865,
+      "source": "https://www.marxists.org/archive/marx/works/1865/value-price-profit/",
+      "license": "Public domain / freely available",
+      "chunks": 138,
+      "chars": 128032
+    },
+    "mia-wage-labour-and-capital": {
+      "layer": 1,
+      "title": "Wage Labour and Capital",
+      "author": "Karl Marx",
+      "year": 1847,
+      "source": "https://www.marxists.org/archive/marx/works/1847/wage-labour/",
+      "license": "Public domain / freely available",
+      "chunks": 119,
+      "chars": 96520
+    },
+    "mia-lenin-april-theses": {
+      "layer": 1,
+      "title": "The April Theses",
+      "author": "V. I. Lenin",
+      "year": 1917,
+      "source": "https://www.marxists.org/archive/lenin/works/1917/apr/",
+      "license": "Public domain / freely available",
+      "chunks": 8,
+      "chars": 8012
+    },
+    "mia-lenin-imperialism": {
+      "layer": 1,
+      "title": "Imperialism, the Highest Stage of Capitalism",
+      "author": "V. I. Lenin",
+      "year": 1916,
+      "source": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/",
+      "license": "Public domain / freely available",
+      "chunks": 215,
+      "chars": 214557
+    },
+    "mia-lenin-left-wing-communism": {
+      "layer": 1,
+      "title": "\"Left-Wing\" Communism: An Infantile Disorder",
+      "author": "V. I. Lenin",
+      "year": 1920,
+      "source": "https://www.marxists.org/archive/lenin/works/1920/lwc/",
+      "license": "Public domain / freely available",
+      "chunks": 79,
+      "chars": 80498
+    },
+    "mia-lenin-state-and-revolution": {
+      "layer": 1,
+      "title": "The State and Revolution",
+      "author": "V. I. Lenin",
+      "year": 1917,
+      "source": "https://www.marxists.org/archive/lenin/works/1917/staterev/",
+      "license": "Public domain / freely available",
+      "chunks": 230,
+      "chars": 239550
+    },
+    "mia-lenin-what-is-to-be-done": {
+      "layer": 1,
+      "title": "What Is To Be Done?",
+      "author": "V. I. Lenin",
+      "year": 1902,
+      "source": "https://www.marxists.org/archive/lenin/works/1901/witbd/",
+      "license": "Public domain / freely available",
+      "chunks": 433,
+      "chars": 461467
+    },
+    "mia-luxemburg-mass-strike": {
+      "layer": 1,
+      "title": "The Mass Strike",
+      "author": "Rosa Luxemburg",
+      "year": 1906,
+      "source": "https://www.marxists.org/archive/luxemburg/1906/mass-strike/",
+      "license": "Public domain / freely available",
+      "chunks": 191,
+      "chars": 183922
+    },
+    "mia-luxemburg-reform-or-revolution": {
+      "layer": 1,
+      "title": "Reform or Revolution",
+      "author": "Rosa Luxemburg",
+      "year": 1900,
+      "source": "https://www.marxists.org/archive/luxemburg/1900/reform-revolution/",
+      "license": "Public domain / freely available",
+      "chunks": 148,
+      "chars": 152432
+    },
+    "mia-luxemburg-russian-revolution": {
+      "layer": 1,
+      "title": "The Russian Revolution",
+      "author": "Rosa Luxemburg",
+      "year": 1918,
+      "source": "https://www.marxists.org/archive/luxemburg/1918/russian-revolution/",
+      "license": "Public domain / freely available",
+      "chunks": 64,
+      "chars": 65698
+    },
+    "mia-trotsky-permanent-revolution": {
+      "layer": 1,
+      "title": "The Permanent Revolution",
+      "author": "Leon Trotsky",
+      "year": 1931,
+      "source": "https://www.marxists.org/archive/trotsky/1931/tpr/",
+      "license": "Public domain / freely available",
+      "chunks": 291,
+      "chars": 290354
+    },
+    "mia-trotsky-revolution-betrayed": {
+      "layer": 1,
+      "title": "The Revolution Betrayed",
+      "author": "Leon Trotsky",
+      "year": 1936,
+      "source": "https://www.marxists.org/archive/trotsky/1936/revbet/",
+      "license": "Public domain / freely available",
+      "chunks": 210,
+      "chars": 203066
+    },
+    "mia-trotsky-their-morals-and-ours": {
+      "layer": 1,
+      "title": "Their Morals and Ours",
+      "author": "Leon Trotsky",
+      "year": 1938,
+      "source": "https://www.marxists.org/archive/trotsky/1938/morals/",
+      "license": "Public domain / freely available",
+      "chunks": 85,
+      "chars": 81641
+    },
+    "mia-che-guerrilla-warfare-a-method": {
+      "layer": 1,
+      "title": "Guerrilla Warfare: A Method",
+      "author": "Ernesto Che Guevara",
+      "year": 1963,
+      "source": "https://www.marxists.org/archive/guevara/1963/09/guerrilla-warfare.htm",
+      "license": "Public domain / freely available",
+      "chunks": 51,
+      "chars": 42046
+    },
+    "mia-che-socialism-and-man-in-cuba": {
+      "layer": 1,
+      "title": "Man and Socialism in Cuba",
+      "author": "Ernesto Che Guevara",
+      "year": 1965,
+      "source": "https://www.marxists.org/archive/guevara/1965/03/man-socialism.htm",
+      "license": "Public domain / freely available",
+      "chunks": 74,
+      "chars": 60073
+    },
+    "mia-fanon-national-culture": {
+      "layer": 1,
+      "title": "On National Culture \u2014 Speech at the Second Congress of Black Writers and Artists, Rome, 1959",
+      "author": "Frantz Fanon",
+      "year": 1959,
+      "source": "https://www.marxists.org/subject/africa/fanon/national-culture.htm",
+      "license": "Public domain / freely available",
+      "chunks": 21,
+      "chars": 21823
+    },
+    "mia-fanon-pitfalls-of-national-consciousness": {
+      "layer": 1,
+      "title": "The Pitfalls of National Consciousness (Chapter 3 of The Wretched of the Earth)",
+      "author": "Frantz Fanon",
+      "year": 1961,
+      "source": "https://www.marxists.org/subject/africa/fanon/pitfalls-national.htm",
+      "license": "Public domain / freely available",
+      "chunks": 112,
+      "chars": 114104
+    },
+    "mia-fanon-wretched-conclusion": {
+      "layer": 1,
+      "title": "Conclusion (from The Wretched of the Earth)",
+      "author": "Frantz Fanon",
+      "year": 1961,
+      "source": "https://www.marxists.org/subject/africa/fanon/conclusion.htm",
+      "license": "Public domain / freely available",
+      "chunks": 7,
+      "chars": 7834
+    },
+    "mia-invisible-committee-coming-insurrection": {
+      "layer": 1,
+      "title": "The Coming Insurrection",
+      "author": "The Invisible Committee",
+      "year": 2009,
+      "source": "https://theanarchistlibrary.org/library/comite-invisible-the-coming-insurrection",
+      "license": "Public domain / freely available",
+      "chunks": 173,
+      "chars": 173975
+    },
+    "mia-mao-combat-liberalism": {
+      "layer": 1,
+      "title": "Combat Liberalism",
+      "author": "Mao Zedong",
+      "year": 1937,
+      "source": "https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_03.htm",
+      "license": "Public domain / freely available",
+      "chunks": 7,
+      "chars": 6009
+    },
+    "mia-mao-on-contradiction": {
+      "layer": 1,
+      "title": "On Contradiction",
+      "author": "Mao Zedong",
+      "year": 1937,
+      "source": "https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm",
+      "license": "Public domain / freely available",
+      "chunks": 119,
+      "chars": 96163
+    },
+    "mia-mao-on-practice": {
+      "layer": 1,
+      "title": "On Practice",
+      "author": "Mao Zedong",
+      "year": 1937,
+      "source": "https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_16.htm",
+      "license": "Public domain / freely available",
+      "chunks": 47,
+      "chars": 38285
+    },
+    "mia-sartre-preface-wretched-of-the-earth": {
+      "layer": 1,
+      "title": "Preface to The Wretched of the Earth",
+      "author": "Jean-Paul Sartre",
+      "year": 1961,
+      "source": "https://www.marxists.org/reference/archive/sartre/1961/preface.htm",
+      "license": "Public domain / freely available",
+      "chunks": 41,
+      "chars": 46075
+    },
+    "mia-spade-solidarity-not-charity": {
+      "layer": 1,
+      "title": "Solidarity Not Charity: Mutual Aid for Mobilization and Survival",
+      "author": "Dean Spade",
+      "year": 2020,
+      "source": "https://theanarchistlibrary.org/library/dean-spade-solidarity-not-charity",
+      "license": "Public domain / freely available",
+      "chunks": 63,
+      "chars": 64166
+    },
+    "mia-williams-abolishing-police": {
+      "layer": 1,
+      "title": "Abolishing Police Is a Step Toward Ending White Supremacy and Capitalism",
+      "author": "Kristian Williams",
+      "year": 2021,
+      "source": "https://theanarchistlibrary.org/library/kristian-williams-abolishing-police-is-a-step-toward-ending-white-supremacy-and-capitalism",
+      "license": "Public domain / freely available",
+      "chunks": 8,
+      "chars": 7405
+    },
+    "mtcstw-substack": {
+      "layer": 3,
+      "title": "MTCSTW Substack Articles",
+      "author": "MTCSTW",
+      "year": 2026,
+      "source": "MTCSTW public revolutionary voice corpus",
+      "license": "Original content by MTCSTW",
+      "chunks": 229,
+      "chars": 280466
+    },
+    "mtcstw-facebook": {
+      "layer": 3,
+      "title": "MTCSTW Facebook Voice Posts",
+      "author": "MTCSTW",
+      "year": 2026,
+      "source": "MTCSTW public revolutionary voice corpus",
+      "license": "Original content by MTCSTW",
+      "chunks": 128,
+      "chars": 38327
+    },
+    "mtcstw-shared": {
+      "layer": 3,
+      "title": "MTCSTW Amplified Positions",
+      "author": "MTCSTW",
+      "year": 2026,
+      "source": "MTCSTW public revolutionary voice corpus",
+      "license": "Original content by MTCSTW",
+      "chunks": 49,
+      "chars": 11101
+    },
+    "mtcstw-podcast": {
+      "layer": 3,
+      "title": "MTCSTW Podcast Episodes",
+      "author": "MTCSTW",
+      "year": 2025,
+      "source": "MTCSTW public revolutionary voice corpus",
+      "license": "Original content by MTCSTW",
+      "chunks": 48,
+      "chars": 13473
+    },
+    "site-roster": {
+      "layer": 4,
+      "title": "Sick Left Radicals Network Roster",
+      "author": "MTCSTW",
+      "year": 2026,
+      "chunks": 6,
+      "chars": 7909
+    },
+    "site-pages": {
+      "layer": 4,
+      "title": "MTCSTW.com Site Guide",
+      "author": "MTCSTW",
+      "year": 2026,
+      "chunks": 2,
+      "chars": 1796
+    },
+    "site-games": {
+      "layer": 4,
+      "title": "Site Games and Features Guide",
+      "author": "MTCSTW",
+      "year": 2026,
+      "chunks": 1,
+      "chars": 1145
+    },
+    "creator-knowledge": {
+      "layer": 5,
+      "title": "Sick Left Radicals Creator Knowledge",
+      "author": "MTCSTW / The Propaganda Factory",
+      "year": 2026,
+      "source": "CREATOR_PROFILES.md (public research, 2026-10-02)",
+      "chunks": 111,
+      "chars": 113770
+    },
     "nightly-signals": {
       "layer": 3,
       "title": "Nightly Optimizer Signals",
@@ -163,9 +636,9 @@
     }
   },
   "totals": {
-    "chunks": 21924,
-    "chars": 19719290,
-    "index_terms": 27040,
-    "shards": 347
+    "chunks": 21797,
+    "chars": 19565269,
+    "index_terms": 26592,
+    "shards": 343
   }
 }
