@@ -643,12 +643,32 @@
       "license": "MTCSTW proprietary",
       "chunks": 1300,
       "chars": 374817
+    },
+    "karl-organizing-pack5": {
+      "layer": 6,
+      "title": "Karl Organizing Training Pack 5",
+      "author": "MTCSTW Training Pack",
+      "year": 2026,
+      "source": "MTCSTW training-packs/pack5_organizing.jsonl",
+      "license": "MTCSTW proprietary",
+      "chunks": 2400,
+      "chars": 1153236
+    },
+    "karl-rapid-pack6": {
+      "layer": 6,
+      "title": "Karl Rapid Response Training Pack 6",
+      "author": "MTCSTW Training Pack",
+      "year": 2026,
+      "source": "MTCSTW training-packs/pack6_rapid_response.jsonl",
+      "license": "MTCSTW proprietary",
+      "chunks": 1700,
+      "chars": 462904
     }
   },
   "totals": {
-    "chunks": 23224,
-    "chars": 20094107,
-    "index_terms": 27180,
-    "shards": 368
+    "chunks": 27324,
+    "chars": 21710247,
+    "index_terms": 41553,
+    "shards": 433
   }
 }
