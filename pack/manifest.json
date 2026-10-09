@@ -1,5 +1,5 @@
 {
-  "built": "2026-10-08",
+  "built": "2026-10-09",
   "works": {
     "manifesto": {
       "layer": 1,
@@ -693,12 +693,22 @@
       "license": "MTCSTW proprietary",
       "chunks": 1300,
       "chars": 442662
+    },
+    "karl-political-logic-20261009": {
+      "layer": 6,
+      "title": "Karl Political Logic Pack",
+      "author": "Muse (training data)",
+      "year": 2026,
+      "source": "karl-political-logic-pack.md (2026-10-09)",
+      "license": "MTCSTW proprietary",
+      "chunks": 25,
+      "chars": 7176
     }
   },
   "totals": {
-    "chunks": 32715,
-    "chars": 23102459,
-    "index_terms": 28764,
-    "shards": 520
+    "chunks": 34392,
+    "chars": 22549497,
+    "index_terms": 29310,
+    "shards": 524
   }
 }
