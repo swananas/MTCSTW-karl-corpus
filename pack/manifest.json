@@ -566,10 +566,10 @@
       "title": "MTCSTW Facebook Voice Posts",
       "author": "MTCSTW",
       "year": 2026,
-      "source": "MTCSTW public revolutionary voice corpus",
+      "source": "MTCSTW public revolutionary voice corpus (complete rebuild)",
       "license": "Original content by MTCSTW",
-      "chunks": 128,
-      "chars": 38327
+      "chunks": 364,
+      "chars": 56303
     },
     "mtcstw-shared": {
       "layer": 3,
@@ -703,12 +703,92 @@
       "license": "MTCSTW proprietary",
       "chunks": 25,
       "chars": 7176
+    },
+    "claude-climate": {
+      "layer": 6,
+      "title": "Claude Training Pack: climate",
+      "author": "Claude",
+      "year": 2026,
+      "source": "Claude-generated training data via Brain",
+      "license": "Generated for MTCSTW",
+      "chunks": 200,
+      "chars": 58560
+    },
+    "claude-housing": {
+      "layer": 6,
+      "title": "Claude Training Pack: housing",
+      "author": "Claude",
+      "year": 2026,
+      "source": "Claude-generated training data via Brain",
+      "license": "Generated for MTCSTW",
+      "chunks": 200,
+      "chars": 60991
+    },
+    "claude-labor": {
+      "layer": 6,
+      "title": "Claude Training Pack: labor",
+      "author": "Claude",
+      "year": 2026,
+      "source": "Claude-generated training data via Brain",
+      "license": "Generated for MTCSTW",
+      "chunks": 200,
+      "chars": 53553
+    },
+    "claude-poverty": {
+      "layer": 6,
+      "title": "Claude Training Pack: poverty",
+      "author": "Claude",
+      "year": 2026,
+      "source": "Claude-generated training data via Brain",
+      "license": "Generated for MTCSTW",
+      "chunks": 200,
+      "chars": 61318
+    },
+    "claude-publicdata": {
+      "layer": 6,
+      "title": "Claude Training Pack: publicdata",
+      "author": "Claude",
+      "year": 2026,
+      "source": "Claude-generated training data via Brain",
+      "license": "Generated for MTCSTW",
+      "chunks": 200,
+      "chars": 38815
+    },
+    "claude-taxes": {
+      "layer": 6,
+      "title": "Claude Training Pack: taxes",
+      "author": "Claude",
+      "year": 2026,
+      "source": "Claude-generated training data via Brain",
+      "license": "Generated for MTCSTW",
+      "chunks": 200,
+      "chars": 70957
+    },
+    "claude-whitepoverty": {
+      "layer": 6,
+      "title": "Claude Training Pack: whitepoverty",
+      "author": "Claude",
+      "year": 2026,
+      "source": "Claude-generated training data via Brain",
+      "license": "Generated for MTCSTW",
+      "chunks": 200,
+      "chars": 50853
+    },
+    "karl-voice-profile": {
+      "layer": 3,
+      "title": "Karl Voice Profile",
+      "author": "MTCSTW",
+      "year": 2026,
+      "source": "Distilled voice profile document",
+      "license": "Original content by MTCSTW",
+      "chunks": 5,
+      "chars": 6395
     }
   },
   "totals": {
-    "chunks": 34392,
-    "chars": 22549497,
-    "index_terms": 29310,
-    "shards": 524
+    "chunks": 36033,
+    "chars": 23541900,
+    "index_terms": 30725,
+    "shards": 546
   }
 }
