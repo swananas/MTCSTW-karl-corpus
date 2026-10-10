@@ -803,12 +803,22 @@
       "chunks": 300,
       "chars": 162115,
       "last_release": "2026-10-09"
+    },
+    "creator-catalog": {
+      "layer": 3,
+      "title": "Sick Left Radicals Creator Catalog",
+      "author": "MTCSTW",
+      "year": 2026,
+      "source": "src/data/slr-master-db.json (62 members)",
+      "chunks": 62,
+      "chars": 39250,
+      "last_release": "2026-10-09"
     }
   },
   "totals": {
-    "chunks": 36341,
-    "chars": 23726514,
-    "index_terms": 30839,
-    "shards": 558
+    "chunks": 36403,
+    "chars": 23765764,
+    "index_terms": 30944,
+    "shards": 559
   }
 }
