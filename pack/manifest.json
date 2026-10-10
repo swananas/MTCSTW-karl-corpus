@@ -793,12 +793,22 @@
       "chunks": 8,
       "chars": 4523,
       "last_release": "2026-10-09"
+    },
+    "logic-chains": {
+      "layer": 3,
+      "title": "Logic-Chain Training Packs",
+      "author": "karl-training",
+      "year": 2026,
+      "source": "logic-packs/brain/*.jsonl (6 packs x 50)",
+      "chunks": 300,
+      "chars": 162115,
+      "last_release": "2026-10-09"
     }
   },
   "totals": {
-    "chunks": 36041,
-    "chars": 23564399,
-    "index_terms": 30749,
-    "shards": 553
+    "chunks": 36341,
+    "chars": 23726514,
+    "index_terms": 30839,
+    "shards": 558
   }
 }
