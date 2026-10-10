@@ -783,12 +783,22 @@
       "license": "Original content by MTCSTW",
       "chunks": 5,
       "chars": 6395
+    },
+    "enforcement-data": {
+      "layer": 3,
+      "title": "Corporate Enforcement Data",
+      "author": "data-bank-ingest",
+      "year": 2026,
+      "source": "D1: doj_enforcement, contractor_misconduct, hhs_oig_enforcement, private_prisons, fcc_complaints, forprofit_colleges, sec_13f_holdings, littlesis_*",
+      "chunks": 8,
+      "chars": 4523,
+      "last_release": "2026-10-09"
     }
   },
   "totals": {
-    "chunks": 36033,
-    "chars": 23541900,
-    "index_terms": 30725,
-    "shards": 546
+    "chunks": 36041,
+    "chars": 23564399,
+    "index_terms": 30749,
+    "shards": 553
   }
 }
