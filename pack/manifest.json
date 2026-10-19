@@ -813,12 +813,72 @@
       "chunks": 62,
       "chars": 39250,
       "last_release": "2026-10-09"
+    },
+    "college-scorecard": {
+      "layer": 3,
+      "title": "College Scorecard Institutions + Aggregates (2026-10-18 extract)",
+      "author": "U.S. Department of Education, College Scorecard \u2014 extract by data-mining-op",
+      "year": 2026,
+      "source": "REQ-20261018-4434 \u00b7 files: scorecard-institutions-national-2026-10-18.md, scorecard-institutions-louisiana-2026-10-18.md, scorecard-aggregates-2026-10-18.md",
+      "chunks": 1583,
+      "chars": 5596226,
+      "last_release": "2026-10-18"
+    },
+    "fred-macro-pack": {
+      "layer": 3,
+      "title": "FRED Historical Macro Series Pack, 2015\u2013present (2026-10-18)",
+      "author": "FRED, Federal Reserve Bank of St. Louis \u2014 pull by data-mining-op",
+      "year": 2026,
+      "source": "REQ-20261018-4432 \u00b7 files: fred-cpi-2026-10-18.md, fred-cpi-housing-food-2026-10-18.md, fred-unemployment-2026-10-18.md, fred-real-earnings-2026-10-18.md, fred-initial-claims-2026-10-18.md, fred-fedfunds-2026-10-18.md",
+      "chunks": 24,
+      "chars": 52923,
+      "last_release": "2026-10-18"
+    },
+    "bjs-incarceration": {
+      "layer": 3,
+      "title": "BJS Incarceration Statistics Pack (2026-10-18)",
+      "author": "Bureau of Justice Statistics \u2014 extract by data-mining-op",
+      "year": 2026,
+      "source": "REQ-20261018-4436 \u00b7 files: bjs-prisoners-2023.md, bjs-jail-inmates-2024.md, bjs-probation-parole-2024.md, bjs-louisiana-profile.md",
+      "chunks": 4,
+      "chars": 11573,
+      "last_release": "2026-10-18"
+    },
+    "bls-labor": {
+      "layer": 3,
+      "title": "BLS Labor Pack \u2014 LAUS + OEWS highlights (2026-10-18)",
+      "author": "Bureau of Labor Statistics \u2014 pull by data-mining-op",
+      "year": 2026,
+      "source": "REQ-20261018-4433 \u00b7 files: laus-highlights.md, oews-highlights.md",
+      "chunks": 8,
+      "chars": 21974,
+      "last_release": "2026-10-18"
+    },
+    "cms-hcris": {
+      "layer": 3,
+      "title": "CMS HCRIS Hospital Cost Highlights + Price-Transparency Coverage Note (2026-10-18)",
+      "author": "Centers for Medicare & Medicaid Services, HCRIS \u2014 extract by data-mining-op",
+      "year": 2026,
+      "source": "REQ-20261018-4435 \u00b7 files: hcris_hospital_highlights.md, hcris_louisiana_hospitals.md, price_transparency_note.md",
+      "chunks": 5,
+      "chars": 13865,
+      "last_release": "2026-10-18"
+    },
+    "usaspending-places": {
+      "layer": 3,
+      "title": "USAspending Place Profiles \u2014 states, territories, parishes, top-100 counties (2026-10-18)",
+      "author": "USAspending.gov \u2014 pull by data-mining-op",
+      "year": 2026,
+      "source": "REQ-20261018-4439 \u00b7 files: usaspending-louisiana-parishes.md, usaspending-state-ak-alaska.md, usaspending-state-al-alabama.md, usaspending-state-ar-arkansas.md, usaspending-state-az-arizona.md, usaspending-state-ca-california.md, usaspending-state-co-colorado.md, usaspending-state-ct-connecticut.md, usaspending-state-dc-district-of-columbia.md, usaspending-state-de-delaware.md, usaspending-state-fl-florida.md, usaspending-state-ga-georgia.md, usaspending-state-hi-hawaii.md, usaspending-state-ia-iowa.md, usaspending-state-id-idaho.md, usaspending-state-il-illinois.md, usaspending-state-in-indiana.md, usaspending-state-ks-kansas.md, usaspending-state-ky-kentucky.md, usaspending-state-la-louisiana.md, usaspending-state-ma-massachusetts.md, usaspending-state-md-maryland.md, usaspending-state-me-maine.md, usaspending-state-mi-michigan.md, usaspending-state-mn-minnesota.md, usaspending-state-mo-missouri.md, usaspending-state-ms-mississippi.md, usaspending-state-mt-montana.md, usaspending-state-nc-north-carolina.md, usaspending-state-nd-north-dakota.md, usaspending-state-ne-nebraska.md, usaspending-state-nh-new-hampshire.md, usaspending-state-nj-new-jersey.md, usaspending-state-nm-new-mexico.md, usaspending-state-nv-nevada.md, usaspending-state-ny-new-york.md, usaspending-state-oh-ohio.md, usaspending-state-ok-oklahoma.md, usaspending-state-or-oregon.md, usaspending-state-pa-pennsylvania.md, usaspending-state-pr-puerto-rico.md, usaspending-state-ri-rhode-island.md, usaspending-state-sc-south-carolina.md, usaspending-state-sd-south-dakota.md, usaspending-state-tn-tennessee.md, usaspending-state-tx-texas.md, usaspending-state-unattributed.md, usaspending-state-ut-utah.md, usaspending-state-va-virginia.md, usaspending-state-vt-vermont.md, usaspending-state-wa-washington.md, usaspending-state-wi-wisconsin.md, usaspending-state-wv-west-virginia.md, usaspending-state-wy-wyoming.md, usaspending-territory-as-american-samoa.md, usaspending-territory-gu-guam.md, usaspending-territory-mp-northern-mariana-islands.md, usaspending-territory-vi-u.s.-virgin-islands.md, usaspending-top100-counties.md",
+      "chunks": 70,
+      "chars": 240551,
+      "last_release": "2026-10-18"
     }
   },
   "totals": {
-    "chunks": 36809,
-    "chars": 24051869,
-    "index_terms": 31109,
-    "shards": 570
+    "chunks": 38503,
+    "chars": 29988981,
+    "index_terms": 31258,
+    "shards": 597
   }
 }
