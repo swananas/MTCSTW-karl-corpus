@@ -888,7 +888,7 @@
   "totals": {
     "chunks": 38538,
     "chars": 30055090,
-    "index_terms": 31331,
+    "index_terms": 39872,
     "shards": 599
   }
 }
