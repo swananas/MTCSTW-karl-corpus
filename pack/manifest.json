@@ -873,12 +873,22 @@
       "chunks": 70,
       "chars": 240551,
       "last_release": "2026-10-18"
+    },
+    "fec-donor-extract": {
+      "layer": 3,
+      "title": "FEC Donor Extract \u2014 Top Donors, Top Committees, Interlock Edges (PARTIAL: cycles 2016/2018/2026)",
+      "author": "Federal Election Commission (statutory public disclosure) \u2014 extract by data-mining-op, published by Mac & Factory seat",
+      "year": 2026,
+      "source": "REQ-20261018-4438 \u00b7 pf-data-lake chain/brand_parent_research/exports/v20261018-karl/ (manifest-fec-4438.json, landed 2026-10-20T00:14:32Z) \u00b7 PARTIAL: cycles 2016/2018/2026 of 6",
+      "chunks": 16,
+      "chars": 46064,
+      "last_release": "2026-10-19"
     }
   },
   "totals": {
-    "chunks": 38522,
-    "chars": 30009026,
-    "index_terms": 31294,
-    "shards": 598
+    "chunks": 38538,
+    "chars": 30055090,
+    "index_terms": 31331,
+    "shards": 599
   }
 }
