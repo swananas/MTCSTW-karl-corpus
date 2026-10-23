@@ -630,9 +630,9 @@
       "author": "karl-nightly-optimizer",
       "year": 2026,
       "source": "nightly/YYYY-MM-DD/ (FRED, GDELT, HN, PullPush, Open-Meteo)",
-      "chunks": 180,
-      "chars": 218442,
-      "last_release": "2026-10-22"
+      "chunks": 201,
+      "chars": 239389,
+      "last_release": "2026-10-23"
     },
     "karl-voice-pack1": {
       "layer": 6,
@@ -886,9 +886,9 @@
     }
   },
   "totals": {
-    "chunks": 38609,
-    "chars": 30180497,
-    "index_terms": 39977,
-    "shards": 603
+    "chunks": 38630,
+    "chars": 30201444,
+    "index_terms": 40006,
+    "shards": 604
   }
 }
